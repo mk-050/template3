@@ -1,4 +1,4 @@
-package com.diworksdev.template3.util;
+package com.diworksdev.template.util;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
